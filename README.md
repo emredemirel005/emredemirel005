@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @emredemirel005
+- 👀 I’m Mechactronic Engineer
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development with Unity3D
 - 📫 How to reach me emredemirel005@gmail.com
